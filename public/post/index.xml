@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on robotmayo | Web Developer | LEGO Peddler</title>
+    <link>http://robotmayo.net.s3-website-us-east-1.amazonaws.com/post/</link>
+    <description>Recent content in Posts on robotmayo | Web Developer | LEGO Peddler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Apr 2016 23:46:53 -0400</lastBuildDate>
+    <atom:link href="http://robotmayo.net.s3-website-us-east-1.amazonaws.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Test</title>
+      <link>http://robotmayo.net.s3-website-us-east-1.amazonaws.com/post/first-post/</link>
+      <pubDate>Tue, 12 Apr 2016 23:46:53 -0400</pubDate>
+      
+      <guid>http://robotmayo.net.s3-website-us-east-1.amazonaws.com/post/first-post/</guid>
+      <description>
+
+&lt;h3 id=&#34;my-site-finally-got-its-much-deserved-upgrade:f3b70d76da56e15d82042b9ef176d71f&#34;&gt;My site finally got its much deserved upgrade&lt;/h3&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

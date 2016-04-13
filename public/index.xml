@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>robotmayo | Web Developer | LEGO Peddler</title>
+    <link>http://robotmayo.net.s3-website-us-east-1.amazonaws.com/</link>
+    <description>Recent content on robotmayo | Web Developer | LEGO Peddler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Apr 2016 23:46:53 -0400</lastBuildDate>
+    <atom:link href="http://robotmayo.net.s3-website-us-east-1.amazonaws.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Resume</title>
+      <link>http://robotmayo.net.s3-website-us-east-1.amazonaws.com/resume/</link>
+      <pubDate>Tue, 12 Apr 2016 23:46:53 -0400</pubDate>
+      
+      <guid>http://robotmayo.net.s3-website-us-east-1.amazonaws.com/resume/</guid>
+      <description>
+
+&lt;h1 id=&#34;nigel-edwards-brooklyn:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Nigel Edwards | Brooklyn&lt;/h1&gt;
+
+&lt;h2 id=&#34;web-developer:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Web Developer&lt;/h2&gt;
+
+&lt;p&gt;I am a New York native that loves to muck around and build things, whether for
+the web or with Lego. I&amp;rsquo;m best with/at&lt;/p&gt;
+
+&lt;h3 id=&#34;node-js-javascript-shit-posting-on-reddit:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Node.js | JavaScript | Shit posting on reddit&lt;/h3&gt;
+
+&lt;p&gt;I&amp;rsquo;m not completely terrible at&lt;/p&gt;
+
+&lt;h3 id=&#34;html-css-react:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;HTML | CSS | React&lt;/h3&gt;
+
+&lt;p&gt;Things I&amp;rsquo;m actually completely terrible at&lt;/p&gt;
+
+&lt;h3 id=&#34;go-lego-dota-2:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Go | LEGO | Dota 2&lt;/h3&gt;
+
+&lt;h2 id=&#34;experience:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Experience&lt;/h2&gt;
+
+&lt;h3 id=&#34;bookspan:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Bookspan&lt;/h3&gt;
+
+&lt;h4 id=&#34;junior-developer-nov-2014-nov-2015:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Junior Developer | Nov 2014 - Nov 2015&lt;/h4&gt;
+
+&lt;h4 id=&#34;developer-nov-2015:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Developer | Nov 2015 -&lt;/h4&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>http://robotmayo.net.s3-website-us-east-1.amazonaws.com/post/first-post/</link>
+      <pubDate>Tue, 12 Apr 2016 23:46:53 -0400</pubDate>
+      
+      <guid>http://robotmayo.net.s3-website-us-east-1.amazonaws.com/post/first-post/</guid>
+      <description>
+
+&lt;h3 id=&#34;my-site-finally-got-its-much-deserved-upgrade:f3b70d76da56e15d82042b9ef176d71f&#34;&gt;My site finally got its much deserved upgrade&lt;/h3&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
